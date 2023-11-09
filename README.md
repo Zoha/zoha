@@ -2,6 +2,11 @@
 
 I'm Zoha Banam, a passionate Fullstack developer based in Iran.
 
+![zoha-stat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+
+![zoha-stat-1](https://github-readme-stats.vercel.app/api?username=zoha&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![zoha-stat-2](https://github-readme-streak-stats.herokuapp.com/?user=zoha&theme=buefy&hide_border=true)
+
 ## Skills
 
 - **Frontend Development:**
@@ -46,7 +51,6 @@ I'm Zoha Banam, a passionate Fullstack developer based in Iran.
 - [movier-persian-extension](https://github.com/Zoha/movier-persian-extension)
 - [rest-schema](https://github.com/Zoha/rest-schema)
 - [number-convertor](https://github.com/Zoha/number-convertor)
-- 
  
 ## Contributions
 
@@ -56,3 +60,5 @@ I'm Zoha Banam, a passionate Fullstack developer based in Iran.
 - [verta](https://github.com/hekmatinasser/verta)
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker)
 - [zarinpal-checkout](https://github.com/siamak/zarinpal-checkout)
+
+
