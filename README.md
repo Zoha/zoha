@@ -61,4 +61,9 @@ I'm Zoha Banam, a passionate Fullstack developer based in Iran.
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker)
 - [zarinpal-checkout](https://github.com/siamak/zarinpal-checkout)
 
+# contact 
+
+- 📧 Email me at [zoha.banam@gmail.com](mailto:zoha.banam@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/zoha-banam/)
+- [Github](https://github.com/zoha)
 
