@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zoha Banam, a passionate Fullstack developer based in Iran.
+I'm Zoha, a passionate Fullstack developer based in Iran.
 
 ![zoha-stat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
