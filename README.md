@@ -11,12 +11,12 @@ I'm Zoha, a passionate Fullstack developer based in Iran.
 
 - **Frontend Development:**
   - Languages: JavaScript / Typescript, HTML5, CSS3
-  - Frameworks/Libraries: React.js, Vue.js, JQuery
+  - Frameworks/Libraries: React.js, Vue.js, Next.js, Nuxt.js, JQuery
   - State Management: Redux, Vuex, Pinia
   - Responsive Design: Bootstrap, Tailwind CSS
 
 - **Backend Development:**
-  - Server-side scripting: Node.js, Express.js, Nest.js
+  - Server-side scripting: Node.js, Express.js, Nest.js, Go, PHP
   - Database Management: MongoDB, MySQL, PostgreSQL
   - Redis, Kafka
   - Graphql, REST API
@@ -38,6 +38,7 @@ I'm Zoha, a passionate Fullstack developer based in Iran.
   - Jenkins, Travis CI
 
 - **Other:**
+  - Web3, Blockchain
   - FE / BE Lead
   - Agile/Scrum methodology
   - Code reviews, Git workflows, and QA
